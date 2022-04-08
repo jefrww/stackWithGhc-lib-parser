@@ -1,0 +1,1 @@
+# stackWithGhc-lib-parser
